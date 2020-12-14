@@ -1,3 +1,5 @@
+
+from sorted_dict import sortedDict
 file = open("cities_and_states.txt", "r")
 list_cities_states = file.readlines()
 file.close()
@@ -21,3 +23,4 @@ for n, c_s in enumerate(list_cities_states, 1):
         states_plus_cities[temp[1]].append(temp[0])
 
 print(states_plus_cities)
+print(sortedDict(states_plus_cities))
