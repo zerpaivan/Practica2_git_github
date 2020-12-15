@@ -1,3 +1,4 @@
+# funcion para ordenar las lllaves diccionario (keys)
 def sortedDict(dict):
     sorted_dict = {}
     sorted_dict = sorted_dict.fromkeys(sorted(dict.keys()))
