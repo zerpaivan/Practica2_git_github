@@ -1,4 +1,5 @@
-
+# script para organizar una lista de ciudades por estados
+# y de forma alfabetica
 from sorted_dict import sortedDict
 file = open("cities_and_states.txt", "r")
 list_cities_states = file.readlines()
