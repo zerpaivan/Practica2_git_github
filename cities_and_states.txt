@@ -20,3 +20,4 @@ Anaco - Anzoategui
 Ciudad Bolivar - Bolivar
 San Cristobal - Tachira
 Cumana - Sucre
+Calabozo - Guarico
